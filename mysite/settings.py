@@ -25,7 +25,7 @@ SECRET_KEY = 'g3#z9bmdp$qjf@_!ko9r^$kj(jdesw4^e*8-9tdavmdb+6d#r!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['RunBurger.pythonanywhere.com']
 
 
 # Application definition
